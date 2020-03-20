@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Corona Status</string>
+    <string name="what_is_corona">What is coronavirus?</string>
+    <string name="corona_info">Coronaviruses are a large group of viruses that are common among animals. In rare cases, they can be transmitted from animals to humans. The spikes protruding from the virus\'s membrane look like the sun\'s corona. It is from this that the virus gets the name \'coronavirus\'. It causes illnesses of the respiratory tract, ranging from the common cold to severe conditions like SARS. According to the World Health Organisation (WHO), a novel coronavirus (nCoV) is a new strain that has not been previously identified in humans.</string>
+    <string name="covid_19">COVID-19 is the disease caused by the novel coronavirus, which originated from China\'s Wuhan.</string>
+    <string name="precautions">Ensure that you maintain standard precautions which include adequate hand and respiratory hygiene.\n\n
+        Keep your environment clean at all times.\n\n
+        Wear a medical mask if any of the symptoms are prevalent.\n\n
+        Cover your nose and mouth while coughing and sneezing.\n\n
+        Wash your hands after contact with respiratory secretions.\n\n
+        Avoid close contact with anyone with cold and flu symptoms.</string>
+</resources>
