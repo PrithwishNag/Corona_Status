@@ -1,4 +1,4 @@
-package com.example.coronastatus;
+package coronaterror.peaceoutbro.coronastatus;
 
 import android.content.Context;
 

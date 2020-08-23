@@ -1,9 +1,8 @@
-package com.example.coronastatus;
+package coronaterror.peaceoutbro.coronastatus;
 
 import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.Dialog;
-import android.app.ProgressDialog;
 import android.content.Context;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -13,14 +12,10 @@ import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.LinearLayout;
-import android.widget.ScrollView;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 import android.widget.TextView;
@@ -34,7 +29,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.io.File;
 import java.io.IOException;
 import java.text.DecimalFormat;
 
@@ -347,7 +341,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView deathcasescol = new TextView(context);
         deathcasescol.setLayoutParams(rowParams);
-        deathcasescol.setText("DEATH\nCASES\t");
+        deathcasescol.setText("NOT\nRECOVERED\t");
         deathcasescol.setTextSize(15f);
         deathcasescol.setPadding(0,0,0,20);
 
